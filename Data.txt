@@ -1,0 +1,1 @@
+Hi, I am Debjit and I am going to make a simple notepad using Python and Tkinter GUI
